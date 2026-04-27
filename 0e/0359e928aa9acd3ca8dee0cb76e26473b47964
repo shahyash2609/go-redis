@@ -1,0 +1,23 @@
+sentinel.go
+  0e872f575e2274f8 1011,1013-1016,1018-1021
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.3.4",
+  "base_commit_sha": "0e0359e928aa9acd3ca8dee0cb76e26473b47964",
+  "prompts": {
+    "0e872f575e2274f8": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "e7d8a5e1-a8e1-4dd0-aa9f-9c2ac14a57a8",
+        "model": "claude-opus-4-6"
+      },
+      "human_author": "shahyash2609",
+      "messages": [],
+      "total_additions": 9,
+      "total_deletions": 13,
+      "accepted_lines": 9,
+      "overriden_lines": 0
+    }
+  }
+}
