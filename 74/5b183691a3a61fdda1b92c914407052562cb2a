@@ -1,0 +1,22 @@
+sentinel.go
+  s_b58c1d14798afe::t_bdec4b865660e1 241-247
+  s_b58c1d14798afe::t_8a4f1af59d70cc 305-309
+sentinel_properties_override_internal_test.go
+  s_b58c1d14798afe::t_d5f07efd95e8a3 161-205
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "745b183691a3a61fdda1b92c914407052562cb2a",
+  "prompts": {},
+  "sessions": {
+    "s_b58c1d14798afe": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "7b6ee88a-4aba-42f1-904f-38cfec78422a",
+        "model": "claude-opus-5"
+      },
+      "human_author": "shahyash2609 <yash.shah@meesho.com>"
+    }
+  }
+}
