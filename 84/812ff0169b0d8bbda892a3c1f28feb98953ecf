@@ -1,0 +1,25 @@
+sentinel.go
+  s_b58c1d14798afe::t_80ad3dbdfa2c81 270-275
+  s_b58c1d14798afe::t_8c809b002cf35b 310-319
+  s_b58c1d14798afe::t_78177de16f8a32 346-348,355-359
+  s_b58c1d14798afe::t_dc0b3a2a927fa8 360-362
+  s_b58c1d14798afe::t_0b508baf1f41c1 363
+sentinel_properties_override_internal_test.go
+  s_b58c1d14798afe::t_17f8b562eae777 186-228
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "84812ff0169b0d8bbda892a3c1f28feb98953ecf",
+  "prompts": {},
+  "sessions": {
+    "s_b58c1d14798afe": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "7b6ee88a-4aba-42f1-904f-38cfec78422a",
+        "model": "claude-opus-5"
+      },
+      "human_author": "shahyash2609 <yash.shah@meesho.com>"
+    }
+  }
+}
