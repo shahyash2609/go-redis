@@ -1,0 +1,23 @@
+sentinel.go
+  s_b58c1d14798afe::t_83d5730db4033d 47,51,205,226,231,301,467,505
+universal.go
+  s_b58c1d14798afe::t_8b9f329e4f38b0 57,61,313
+sentinel_options_override_internal_test.go
+  s_b58c1d14798afe::t_8ede3bc8784cee 36,68,70,87,116,118,136,138,165,168,190,193,211,213,231,233,251,259,288,290,322-323,325-328,332-333,348,351,373,376
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "c3a208294cf7bd0e693d08c5342c0b23e2a9cdc5",
+  "prompts": {},
+  "sessions": {
+    "s_b58c1d14798afe": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "7b6ee88a-4aba-42f1-904f-38cfec78422a",
+        "model": "unknown"
+      },
+      "human_author": "shahyash2609 <yash.shah@meesho.com>"
+    }
+  }
+}
