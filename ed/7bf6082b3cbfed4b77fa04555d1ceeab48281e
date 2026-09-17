@@ -1,0 +1,58 @@
+sentinel.go
+  s_b58c1d14798afe::t_0b508baf1f41c1 385
+  s_b58c1d14798afe::t_19f10cd5bf73e3 350-355
+  s_b58c1d14798afe::t_578225d9a155e1 479
+  s_b58c1d14798afe::t_97097557988f4a 206-225,227-230,232-240,248-262,266-268,278-279,286-308,310-319,330-331,339-349,356-367,371-376,386-396
+  s_b58c1d14798afe::t_423617a6dee1dd 461
+  s_b58c1d14798afe::t_80ad3dbdfa2c81 280-285
+  s_b58c1d14798afe::t_3aae587610af44 515-517,519-520
+  s_93e94fe396655f::t_fe3b272ae9c822 263-265,332-338
+  s_b58c1d14798afe::t_83d5730db4033d 47,51,205,226,231,309,480,518
+  s_b58c1d14798afe::t_cb38813d0c34f4 269-277
+  s_b58c1d14798afe::t_8c809b002cf35b 320-329
+  s_b58c1d14798afe::t_78177de16f8a32 368-370,377-381
+  s_b58c1d14798afe::t_bdec4b865660e1 241-247
+  s_b58c1d14798afe::t_d9d13b105d07a5 48-50,52
+  s_b58c1d14798afe::t_dc0b3a2a927fa8 382-384
+sentinel_options_override_internal_test.go
+  s_b58c1d14798afe::t_8ede3bc8784cee 36-213,264-409
+  s_b58c1d14798afe::t_ac4e440c558e7d 31-32,216,223,226-227,229-261,414,417-418
+  s_b58c1d14798afe::t_886021e95d70c8 28-30
+  s_b58c1d14798afe::t_b5df61f15d0669 33-35
+  s_b58c1d14798afe::t_c53c6e820eca95 214-215
+  s_b58c1d14798afe::t_9cd53e6fb4773f 217-222
+  s_b58c1d14798afe::t_8470bbcf46a54b 224-225
+  s_b58c1d14798afe::t_51efc8ae76221f 228
+  s_b58c1d14798afe::t_f933790f26dca9 262-263
+  s_b58c1d14798afe::t_2eea9855f75585 410-413
+  s_b58c1d14798afe::t_a117a900100ecc 415-416
+  s_b58c1d14798afe::t_38814b4cf1a7f8 1-27
+universal.go
+  s_b58c1d14798afe::t_8b9f329e4f38b0 57,61,313
+  s_b58c1d14798afe::t_093d7a0ed22447 58-60,62
+  s_b58c1d14798afe::t_0761e69d3f86e2 314
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "ed7bf6082b3cbfed4b77fa04555d1ceeab48281e",
+  "prompts": {},
+  "sessions": {
+    "s_93e94fe396655f": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "9c6c469c-2747-49ba-9be6-7dce06a1c291",
+        "model": "claude-opus-5"
+      },
+      "human_author": "shahyash2609 <yash.shah@meesho.com>"
+    },
+    "s_b58c1d14798afe": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "7b6ee88a-4aba-42f1-904f-38cfec78422a",
+        "model": "claude-opus-5"
+      },
+      "human_author": "shahyash2609 <yash.shah@meesho.com>"
+    }
+  }
+}
